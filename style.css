@@ -5,14 +5,3 @@
 	list-style: none;
 	font-family: 'Rubik', sans-serif;
 }
-
-
-.right_inner .li_wrap .info:after{
-	content: "";
-	position: absolute;
-	top: 10px;
-	left: 4px;
-	width: 2px;
-	height: 90%;
-	background: #52a0ff;
-}
