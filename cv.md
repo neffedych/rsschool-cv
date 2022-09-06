@@ -32,7 +32,7 @@ I am *21 y.o*. I am a student. My goal is to be a part of IT. I’ll do my best 
 # Experience
 -------------------     ----------------------------
 
-#### **Receptionist, Lake George RV Park, NY, USA**
+#### **Front Desk, Lake George RV Park, NY, USA**
 
 **Tasks**
 * Providing assistance for guests
